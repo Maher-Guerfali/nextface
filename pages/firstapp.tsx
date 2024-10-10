@@ -1,62 +1,45 @@
 import Head from 'next/head';
-import styles from '../styles/Home.module.css';
-
 import React from 'react';
 
 const FirstApp: React.FC = () => {
   return (
-    <div className={styles.container}>
+    <div className="min-h-screen flex flex-col items-center justify-center">
       <Head>
         <title>Real-Time Video Editor</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main>
-        <h1 className={styles.title}>
-          Welcome to <a href="https://yourapp.com">Our Video Editor App!</a>
+      <main className="flex flex-col items-center justify-center py-20">
+        <h1 className="text-4xl font-bold">
+          Welcome to{' '}
+          <a href="https://nextfaces3.s3.amazonaws.com/Release/index.html" className="text-blue-500 hover:underline">
+            Our Video Editor App!
+          </a>
         </h1>
+
+        {/* Embed Unity WebGL App here */}
+        <iframe
+          src="https://nextfaces3.s3.amazonaws.com/Release/index.html"
+          width="800"
+          height="600"
+          title="Unity WebGL App"
+          className="mt-5 border-none"
+        />
       </main>
 
-      <footer>
+      <footer className="w-full h-24 border-t flex items-center justify-center">
         <a
           href="https://yourapp.com"
           target="_blank"
           rel="noopener noreferrer"
+          className="flex items-center text-gray-500 hover:text-gray-700"
         >
           Powered by{' '}
-          <img src="/your_logo.png" alt="Your Logo" className={styles.logo} />
+          <img src="/your_logo.png" alt="Your Logo" className="ml-2 w-6 h-6" />
         </a>
       </footer>
-
-      <style jsx>{`
-        main {
-          padding: 5rem 0;
-          display: flex;
-          justify-content: center;
-          align-items: center;
-        }
-        footer {
-          width: 100%;
-          height: 100px;
-          border-top: 1px solid #eaeaea;
-          display: flex;
-          justify-content: center;
-          align-items: center;
-        }
-        footer img {
-          margin-left: 0.5rem;
-        }
-      `}</style>
-
-      <style jsx global>{`
-        body {
-          padding: 0;
-          margin: 0;
-          font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-        }
-      `}</style>
     </div>
   );
-}
+};
 
 export default FirstApp;
