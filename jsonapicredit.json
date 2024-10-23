@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "brilliantdemo",
+  "private_key_id": "9944e66632aca6abf5de338df8050d3480ef8ed2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCxWwm6Z4i0tfu9\n85I0HbZ0bRFA2CxVN54zAeJagKxcQY0QMazNycFa3nqaCVRzMi7D3YUgUIK6c6AT\nUdLACM6iXFAAsT8TnJvR8iUUiurs0G08eHxZx4uSKLvrQEE4gchHwFpfWTEeswpF\noN3rCFUPapfjE88Fc5dWMK3S6RiZGh6ygWV02VW5/mfctKT2JuGWolBBzZp7lw+5\nVHxgwNF5bC5/BjehMYq76drSaD+YIbpih2yxJ1RTeBOeyDrrv/CHVWhyx3hR1qIW\nFbZdXllAZf5GlREdf7kK8XG9IV0dr7mlVtKJk9h1lFYwImi1Fdhc8lvlncnM9jZb\nU70RB7tLAgMBAAECggEABLw8H6iUaaBf27iwhm9L2zXvFP69YeHkEznEpzGL6JBG\nsB0AOSP4fQpqb/xs/DP/Zz/ERl8zIYx+xKVI1DnBkp78v9f7qcFi46sfoSAuzF3d\nD/up9LFNB7AwvEPXhsCB7j1NH5vMO1g0Bc6yviWKmw73uTQvl2/e2L1Gyglqz7bS\nCfa53myiTNyI3+9pIhZj3KPP4njBXG4G+DQYuTs+Eharoi3TC3QL4DbmT8HZRi95\nmdVDHF/0e0Oq5XrJfMz0QoqpX/BFKzOrLnT0PiR79Cx8mrdTPl6SttVEMs2C0wsF\nYT9+rPdPhpnxolTZQwP0/1DEu1+qWD3XTD3GB/B0IQKBgQDZVEKnYT6qCqqquqce\n0RSqPKWPqH49G/8qzO6cFYT99utDe1mhMDIEZvwF7l5SH80a8Gvurh6Wvz86zlEQ\nNfJBJsW149PFedOO/Odpwg7l90BoR2wMmQ+c3UVOE4v+7ETaYZKFFAy9oA2nvhSi\nLsaZc9GwEzjzC3JQjznAq+890QKBgQDQ6ekXnvTzRXUiZLIar5n+Bp0F55rwlckU\nygHYX/SA42TH5QAucDHc9pFKoGxxbgnORqV2sPplCK+t9JcJS+dWcMh5nhKy80b9\nmlEayowm2U6rvKHXD9yYgVw5bA/ZLnwaa1hmrDe1KrF0f61Ve2SEKNypsb1VpJuj\nA0a+bxciWwKBgE7xmpyuaFLgOQp3bsl07WrBSOqcK+8Kwm/LrUkpT/vou6Dxp6cz\nmJecySNmaQCv6JNGjg5PVXEw20kDNNMMpYkhCmR986kiDcU8/Nqf0UWbwNugRhF1\ncARtJAWueAYL0R76nnyUweQHxa4PD/OxxhZrydmJwgAXQlkdDb99NRRhAoGAbk4C\n55jjRos25Jj8PQDYsvp08Agwk7TSfeqG/OL1KxRlQvITnXFZsoxxfFCl0WJDRSmh\n9cBOBQiIEbYiBSORmt9jymr+/oNayU4wYo/tXhnA4wZvASl71P4AXsVCvO5BUoW5\nIETwCPToy1UahRbopKsaj3KsQErwbiqtsKDhOx8CgYADHMCIIj7Ai6wjY1q3lfKc\nL3omF/zsCoC7EZDz3IHC9WHLExKb9W7a9fuA2/JrZItoKfCZ8wQeIVAcvsC7BYh0\nFl9GRViIoTyZ8LpqeaFnpl4uCoT2MB7E22Mfv96ao3qX2dZYjh6dRaAPL7NJLy+J\nAc42zSQ6AfUnVTjR/8zY6Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "brilliantbucketapicredit@brilliantdemo.iam.gserviceaccount.com",
+  "client_id": "113291126325404203532",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/brilliantbucketapicredit%40brilliantdemo.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
