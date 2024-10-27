@@ -15,10 +15,10 @@ export const config = {
 // Initialize Google Cloud Storage
 const storage = new Storage({
   projectId: 'brilliantdemo', // Replace with your project ID
-  keyFilename: path.join(process.cwd(), 'jsonapicredit.json'), // Adjust path if needed
+  keyFilename: path.join(process.cwd(), 'jsonapicredit.json'), // Adjust path if needed // here to change to github varaibles
 });
 
-// Your Google Cloud Storage bucket
+// Your Google Cloud Storage bucketS
 const bucket = storage.bucket('brilliantbucket');
 
 const handler = async (req: NextApiRequest, res: NextApiResponse) => {
